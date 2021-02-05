@@ -16,7 +16,7 @@
   <tr>
     <td>⚡ dev ✨</td>
     <td>
-      <span title="*nux">:penguin:</span>
+      <span title="*nux" onmouseover="alert('test')">:penguin:</span>
       <span title="python">:snake:</span>
       <span title="web"> :globe_with_meridians:</span>
       <span title="data-science">:panda_face:</span>
